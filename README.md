@@ -1,16 +1,14 @@
-# my_flutter_app
+Descrição
+É um aplicativo desenvolvido para auxiliar comunidades rurais na gestão de suas atividades agrícolas e pecuárias. Ele visa melhorar a produtividade, promover práticas sustentáveis e facilitar o acesso a informações relevantes para os agricultores e criadores de gado.
 
-A new Flutter project.
+Funcionalidades Principais
+Gestão de Cultivos: Suporte para diferentes métodos de plantio e rotação de culturas.
 
-## Getting Started
+Monitoramento Pecuário: Ferramentas para o manejo e cuidado com animais, como gado, galinhas, e outros.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Instalação
+Pré-requisitos
+Flutter SDK
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Ambiente de desenvolvimento configurado para Flutter (Android Studio, VS Code, etc.)

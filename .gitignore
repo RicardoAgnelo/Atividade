@@ -41,3 +41,17 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+/.vs
+/.vs/Atividade
+/.vs/Atividade/FileContentIndex
+/.vs/Atividade/FileContentIndex/52bd3369-9d48-4a02-a0a4-e0c6902defa7.vsidx
+/.vs/Atividade/v17
+/.vs/Atividade/v17/.wsuo
+/.vs/Atividade/v17/Browse.VC.db
+/.vs/Atividade/v17/Browse.VC.db-shm
+/.vs/Atividade/v17/Browse.VC.db-wal
+/.vs/Atividade/v17/Browse.VC.opendb
+/.vs/Atividade/v17/DocumentLayout.json
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json

@@ -11,5 +11,7 @@ Pré-requisitos
 Flutter SDK
 
 Ambiente de desenvolvimento configurado para Flutter (Android Studio, VS Code, etc.)
-<img src=">assets/gif/animais.gif">
+
+
+<img src=">assets/gif/animal.gif">
 

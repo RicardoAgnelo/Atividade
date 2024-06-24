@@ -14,4 +14,6 @@ Ambiente de desenvolvimento configurado para Flutter (Android Studio, VS Code, e
 
 
 <img src="https://github.com/RicardoAgnelo/Atividade/blob/main/assets/gif/animal.gif">
+<img src="https://github.com/RicardoAgnelo/Atividade/blob/main/assets/gif/cultivo.gif">
+<img src="https://github.com/RicardoAgnelo/Atividade/blob/main/assets/gif/plantio.gif">
 

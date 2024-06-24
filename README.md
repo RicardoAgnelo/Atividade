@@ -13,5 +13,5 @@ Flutter SDK
 Ambiente de desenvolvimento configurado para Flutter (Android Studio, VS Code, etc.)
 
 
-<img src=">assets/gif/animal.gif">
+<img src="https://github.com/RicardoAgnelo/Atividade/tree/main/assets/gif/animal.gif">
 
